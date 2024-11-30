@@ -1,4 +1,4 @@
-class_name Cosmetics extends Object
+class_name Color_
 
 const DARK_GRAY_COLOR: Color = Color("4C5567")
 const MINT_COLOR: Color = Color("00B295")
